@@ -1,0 +1,10 @@
+C:\Users\aderson\source\repos\PrimeMinisters\PrimeMinisters\bin\Debug\PrimeMinisters.exe.config
+C:\Users\aderson\source\repos\PrimeMinisters\PrimeMinisters\bin\Debug\PrimeMinisters.exe
+C:\Users\aderson\source\repos\PrimeMinisters\PrimeMinisters\bin\Debug\PrimeMinisters.pdb
+C:\Users\aderson\source\repos\PrimeMinisters\PrimeMinisters\obj\Debug\PrimeMinisters.csprojAssemblyReference.cache
+C:\Users\aderson\source\repos\PrimeMinisters\PrimeMinisters\obj\Debug\PrimeMinisters.frmPrimeMinisters.resources
+C:\Users\aderson\source\repos\PrimeMinisters\PrimeMinisters\obj\Debug\PrimeMinisters.Properties.Resources.resources
+C:\Users\aderson\source\repos\PrimeMinisters\PrimeMinisters\obj\Debug\PrimeMinisters.csproj.GenerateResource.cache
+C:\Users\aderson\source\repos\PrimeMinisters\PrimeMinisters\obj\Debug\PrimeMinisters.csproj.CoreCompileInputs.cache
+C:\Users\aderson\source\repos\PrimeMinisters\PrimeMinisters\obj\Debug\PrimeMinisters.exe
+C:\Users\aderson\source\repos\PrimeMinisters\PrimeMinisters\obj\Debug\PrimeMinisters.pdb
